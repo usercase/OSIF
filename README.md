@@ -11,6 +11,8 @@ The output file name is now :
 $FirstName_mails_YYYY-MM-DD.txt
 ```
 
+**NB : Below is the Readme.md file of the original project**
+
 # this project will be stopped for some time to come.
 
 ```
