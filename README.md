@@ -1,3 +1,11 @@
+# Usercase's changement as of 2019-05-30
+The script osif.py is now able to dump a csv file of all your friends as : 
+First Name Last Name 1;email 1
+First Name Last Name 2;email 2
+...
+First Name Last Name N;email N
+
+The output file is now $FirstName_mails_YYYY-MM-DD.txt
 
 # this project will be stopped for some time to come.
 
